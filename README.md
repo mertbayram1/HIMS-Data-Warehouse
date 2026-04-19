@@ -1,4 +1,4 @@
-# HIMS Data Warehouse - Analytical Database
+# HIMS Data Warehouse / Team Number:7
 
 A comprehensive relational data warehouse engineered to centralize hospital operations, financial transactions, and pharmacy inventory.
 
